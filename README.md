@@ -32,9 +32,4 @@ Finishing instruction: Performing a rough rinse in IPA, then a refining IPA rins
 
 
 #
-- Use parameterized queries for database access
-- Keep dependencies up to date
-- Never commit secrets, API keys, or credentials
-- Review security advisories for dependencies
-
 ---
